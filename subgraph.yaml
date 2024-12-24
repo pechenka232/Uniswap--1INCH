@@ -1,0 +1,7 @@
+dataSources:
+  - kind: ethereum/contract
+    name: MyContract
+    network: rinkeby
+    source:
+      address: "0x"
+      abi: MyContract
